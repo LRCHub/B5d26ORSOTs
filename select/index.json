@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "アポロ",
+  "base_track": "アポロ (New Apollo Project Version)",
   "base_artist": "ポルノグラフィティ",
-  "createdAt": "2026-01-07T19:34:27.849049Z",
+  "createdAt": "2026-02-16T07:05:15.960089Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -23,66 +23,66 @@
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "アポロ (Backing Track)",
-      "artist": "Porno Graffitti",
-      "has_synced": true,
-      "path": "select/03_アポロ_(Backing_Track)_Porno_Graffitti.lrc"
+      "title": "アポロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/03_アポロ_ポルノグラフィティ.txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
       "title": "アポロ",
-      "artist": "ポルノグラフィティ",
+      "artist": "PornoGraffitti",
       "has_synced": false,
-      "path": "select/04_アポロ_ポルノグラフィティ.txt"
+      "path": "select/04_アポロ_PornoGraffitti.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
       "title": "アポロ",
-      "artist": "PornoGraffitti",
-      "has_synced": false,
-      "path": "select/05_アポロ_PornoGraffitti.txt"
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/05_アポロ_nano.RIPE.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
       "title": "アポロ",
-      "artist": "nano.RIPE",
+      "artist": "Porno Graffitti",
       "has_synced": true,
-      "path": "select/06_アポロ_nano.RIPE.lrc"
+      "path": "select/06_アポロ_Porno_Graffitti.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "アポロ (Backing Track)",
-      "artist": "ポルノグラフィティ",
+      "title": "アポロ",
+      "artist": "Porno Graffitti (ポルノグラフィティ)",
       "has_synced": true,
-      "path": "select/07_アポロ_(Backing_Track)_ポルノグラフィティ.lrc"
+      "path": "select/07_アポロ_Porno_Graffitti_(ポルノグラフィティ).lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
       "title": "アポロ",
-      "artist": "Porno Graffitti",
+      "artist": "ポルノグラフィティ",
       "has_synced": true,
-      "path": "select/08_アポロ_Porno_Graffitti.lrc"
+      "path": "select/08_アポロ_ポルノグラフィティ.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "アポロ",
-      "artist": "Porno Graffitti (ポルノグラフィティ)",
+      "title": "アポロ (Backing Track)",
+      "artist": "Porno Graffitti",
       "has_synced": true,
-      "path": "select/09_アポロ_Porno_Graffitti_(ポルノグラフィティ).lrc"
+      "path": "select/09_アポロ_(Backing_Track)_Porno_Graffitti.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "アポロ",
+      "title": "アポロ (Backing Track)",
       "artist": "ポルノグラフィティ",
       "has_synced": true,
-      "path": "select/10_アポロ_ポルノグラフィティ.lrc"
+      "path": "select/10_アポロ_(Backing_Track)_ポルノグラフィティ.lrc"
     },
     {
       "id": "petitlyrics_1",
